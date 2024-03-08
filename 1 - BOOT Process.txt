@@ -1,0 +1,6 @@
+BIOS Integrity check (POST) - Power on Self test	
+Loading of the Boot loader (GRUB2) 
+Kernel initialization
+Starting systemd, the parent of all processes
+
+Poweron --> BIOS (POST) --> Boot Loader (GRUB2) --> Kernal --> Systemd (Mother of All Linux processes)
